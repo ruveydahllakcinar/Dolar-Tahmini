@@ -17,3 +17,13 @@ Another important feature of Bollinger Band is standard deviation. For Standard 
 <p>In order to prevent the entered data from appearing scattered, it is provided to appear in order by adding a list method. Then, the data that is desired to appear on the graph is entered. The width, aspect ratios, title and coin type of the graphic are determined. When we run the code written for this, Bollinger Band chart is output.
 </p>
 
+
+![](image/OutputofBollingerBandchart.png)
+
+<p>After entering all the data, we start to write a trading strategy. To do this, we first need to create a function.</p>
+
+![](image/trade.png)
+
+<p>Latest version of Bollinger Band chart</p>
+
+![](image/bollingerbandchart.png)
