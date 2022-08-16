@@ -6,3 +6,14 @@ First, we need to call the libraries that are important to Python. Every library
 In this study, Numpy array and Panda library are used.</p>
 <h2>How Use Bollinger Band</h2>
 <p>Bollinger Band strategy will be created by using Turkish Airlines stocks. That's why we need to pull stocks over the web.</p>
+
+![](image/thy.png)
+
+<p>To briefly explain the codes, we first write how many daily data will be captured. Then, the most important feature of Bollinger Band is the simple moving average, we define it as SMA while defining it to the code.
+Another important feature of Bollinger Band is standard deviation. For Standard deviation, we need to add the upper peak line and the lower boundary line.</p>
+
+![](image/listingtheentereddata.png)
+
+<p>In order to prevent the entered data from appearing scattered, it is provided to appear in order by adding a list method. Then, the data that is desired to appear on the graph is entered. The width, aspect ratios, title and coin type of the graphic are determined. When we run the code written for this, Bollinger Band chart is output.
+</p>
+
